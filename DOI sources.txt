@@ -1,0 +1,9 @@
+county level presidential vote share
+    https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
+
+US house vote share by district
+    https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2
+
+CCES data for all years
+    https://cces.gov.harvard.edu/
+
